@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 👋 Hi, I’m @alexanderidt
+- 👀 I’m interested in Coding!
 <!--
 **alexanderIdt/alexanderidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
